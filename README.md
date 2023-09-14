@@ -1,5 +1,3 @@
-# CIB-algorithms-and-DS
-This repository is a collection of code and solutions for practicing algorithms and data structures from the "Coding Interview Bootcamp" course on Udemy
 
 # Coding Interview Bootcamp / Algorithms and Data Structures
 This repository is a collection of code and solutions for practicing algorithms and data structures from the "Coding Interview Bootcamp" course on Udemy. 
